@@ -1,0 +1,12 @@
+SQL> desc AtmTransaction;
+
+
+
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ TID                                                NUMBER
+ CARD                                               NUMBER
+ TYPE                                               VARCHAR2(3)
+ AMOUNT                                             NUMBER
+ TDATE                                              DATE
+ STATUS                                             VARCHAR2(1)

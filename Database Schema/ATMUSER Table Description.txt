@@ -1,0 +1,9 @@
+SQL> desc AtmUser;
+
+
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ CARD                                               NUMBER
+ PIN                                                NUMBER
+ CUR                                                NUMBER
+ SAV                                                NUMBER

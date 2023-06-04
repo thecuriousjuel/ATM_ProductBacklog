@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+a
+{
+ background-color: #FFFF6A;
+  border: none;
+  color: red;
+  text-shadow: 1px 1px black;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+padding: 12px 40px;
+}
+a:hover
+{
+background-color: #2EE59D;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+.LogOut
+{
+    background-color: #75FF5B;
+    color:black;
+    font-size: 21px;
+    padding: 12px;
+    padding-left:60px;
+    padding-right:60px;
+    border-radius:40px;
+}      

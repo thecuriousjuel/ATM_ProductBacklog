@@ -1,0 +1,17 @@
+SQL> select * from ATMTRANSACTION;
+
+
+
+       TID       CARD TYP     AMOUNT TDATE     S
+---------- ---------- --- ---------- --------- -
+        14      56421 SAV       5000 13-NOV-19 D
+        15      56421 CUR       5000 13-NOV-19 C
+        16      56421 SAV      25000 13-NOV-19 C
+        24      56421 CUR      19900 14-NOV-19 D
+        27      56421 SAV       1000 14-NOV-19 D
+        28      56421 CUR        400 15-NOV-19 C
+        29      56421 SAV        500 15-NOV-19 C
+        30      56421 CUR        600 15-NOV-19 D
+        31      56421 CUR        500 15-NOV-19 D
+        35      56421 SAV       2000 15-NOV-19 C
+        39      56443 SAV        400 18-NOV-19 D
